@@ -3,7 +3,7 @@
 PyTorch implementation of [Deep semantic-visual embedding with localization](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf), Martin Engilberge, Louis Chevallier, Patrick Perez, Matthieu Cord(CVPR18).
 The original pytorch code of authors can be found [here](https://github.com/technicolor-research/dsve-loc).
 
-<img src="description_embedding.jpg" width="500px" height="220px"/>
+<img src="figure.jpg" width="500px" height="220px"/>
 <br/>
 
 
